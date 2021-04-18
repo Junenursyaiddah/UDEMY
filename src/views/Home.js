@@ -9,25 +9,25 @@ class Home extends React.Component{
         id: 1,
         name: "Javascript",
         description: "Javascript description",
-        image: require("../../public/images/js.png")
+        image: require("../images/js.png")
       },
       {
         id: 2,
         name: "React",
         description: "React description",
-        image: require("../../public/images/react.png")
+        image: require("../images/react.png")
       },
       {
         id: 3,
         name: "Vue",
         description: "Vue description",
-        image: require("../../public/images/vuejs.jpeg")
+        image: require("../images/vuejs.jpeg")
       },
       {
         id: 4,
         name: "Svelte",
         description: "Svelte description",
-        image: require("../../public/images/sveltejs.png")
+        image: require("../images/sveltejs.png")
       }
     ]
   }
